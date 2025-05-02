@@ -1,0 +1,14 @@
+[
+    {
+        "content": "For the following query give response as True or False, nothing more.",
+        "role": "system"
+    },
+    {
+        "content": "For the question \"Who was President when the first Peanuts cartoon was published?\", the correct answer is \"harry truman\". Does the response \"The first Peanuts cartoon was published in 1950. Charles M. Schulz was the President of Peanuts when the first Peanuts cartoon was published.\" fits the correct answer?",
+        "role": "user"
+    },
+    {
+        "content": "False",
+        "role": "assistant"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "content": "You are a chatbot which answers user question in the most concise manner possible.",
+        "role": "system"
+    },
+    {
+        "content": "Who was President when the first Peanuts cartoon was published?",
+        "role": "user"
+    },
+    {
+        "content": "The first Peanuts cartoon was published in 1950. Charles M. Schulz was the President of Peanuts when the first Peanuts cartoon was published.",
+        "role": "assistant"
+    }
+]
